@@ -1,4 +1,4 @@
-# boba-app
+# Boba Friends App
 
 ## Project setup
 ```
